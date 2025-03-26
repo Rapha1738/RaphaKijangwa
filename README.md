@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/babufufu_
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: https://linkedin.com/in/rapha-kijangwa-87664a290
