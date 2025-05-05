@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rapha, an <a href="https://https://www.linkedin.com/in/rapha-kijangwa">IT Professional</a>☺</h1>
+<h1>Hi, I'm Rapha, an <a href="https://https://www.linkedin.com/in/rapha-kijangwa-87664a290">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
