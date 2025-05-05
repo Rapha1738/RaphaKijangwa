@@ -18,4 +18,4 @@
 
 
 [instagram]: https://www.instagram.com/babufufu_
-[linkedin]: https://linkedin.com/in/rapha-kijangwa
+[linkedin]: https://linkedin.com/in/rapha-kijangwa-87664a290
