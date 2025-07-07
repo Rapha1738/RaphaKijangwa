@@ -4,7 +4,6 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Rapha1738/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/Rapha1738/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Rapha1738/ticket-lifecycle)
   
 
